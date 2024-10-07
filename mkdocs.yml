@@ -1,0 +1,83 @@
+# APinchofDill config for mkdocs documentation site generator
+
+site_name: Oceanology Docs
+site_url: https://galidar.github.io/oceanology-docs
+
+# Repository
+repo_name: Galidar/oceanology-docs
+repo_url: https://github.com/Galidar/oceanology-docs
+edit_uri: ""
+
+# Plugins
+plugins:
+  - offline
+  - glightbox
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - minify:
+      minify_html: true
+theme:
+  favicon: ./assets/images/logo.jpg
+  logo: ./assets/images/logo.jpg
+  name: material
+  custom_dir: overrides
+  palette:
+    primary: black
+    scheme: slate
+    # Palette toggle for dark mode
+    # - scheme: slate
+    #   toggle:
+    #     icon: material/brightness-4
+    #     name: Switch to light mode
+    # # Palette toggle for light mode
+    # - scheme: default
+    #   toggle:
+    #     icon: material/brightness-7 
+    #     name: Switch to dark mode
+  features:
+    - navigation.path
+    - navigation.tabs
+    - navigation.path
+    - navigation.footer
+    - navigation.expand
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+# Page navigation
+nav:
+  - Home: index.md
+  - Getting started:
+    - Installation: ./getting-started/installation.md
+    - Setup: ./getting-started/setup.md
+  - Features:
+    - Audio: ./features/audio-system.md
+    - Buoyancy: ./features/buoyancy-configuration.md
+    - Infinite: ./features/infinite-or-not-infinite.md
+    - QuadTree: ./features/quadtree.md
+    - RVT Manager: ./features/rvt-heightmap-actor-manager.md
+    - Swimming: ./features/swimming-configuration.md
+    - Water Volume: ./features/water-volume.md
+  - How-To:
+    - Oceanology + Easy Survival RPG: ./how-to/easy-survival-rpg.md
+  - Intergrations:
+    - General: ./intergrations/index.md
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - abbr
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+extra:
+  annotate:
+    json: [.s2]
+  version:
+    provider: mike
+extra_css:
+  - ./assets/stylesheets/extra.css
