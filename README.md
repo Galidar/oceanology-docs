@@ -57,14 +57,6 @@ mkdocs gh-deploy --force
 ```
 This command builds the documentation and pushes it to the `gh-pages` branch of your repository. The `--force` flag ensures the `gh-pages` branch is overwritten with the new content.
 
-Make sure your repository settings have GitHub Pages configured to serve from the `gh-pages` branch.
-
-## Project Structure
-
-```
-mkdocs.yml    # The configuration file
-```
-
 ### Made with ❤️ and ☕
 
 These docs are made with love and fueled by coffee.
