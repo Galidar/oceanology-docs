@@ -50,7 +50,6 @@ r.Lumen.TraceMeshSDFs=0
 r.Shadow.Virtual.Enable=1
 r.Mobile.EnableNoPrecomputedLightingCSMShader=1
 r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange=True
-r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange=true
 
 r.DefaultFeature.LocalExposure.HighlightContrastScale=0.8
 
