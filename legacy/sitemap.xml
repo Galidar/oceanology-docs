@@ -2,50 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://galidar.github.io/oceanology-docs/legacy/index.html</loc>
-         <lastmod>2024-10-14</lastmod>
-    </url>
-    <url>
-         <loc>https://galidar.github.io/oceanology-docs/legacy/features/audio-system.html</loc>
-         <lastmod>2024-10-14</lastmod>
-    </url>
-    <url>
-         <loc>https://galidar.github.io/oceanology-docs/legacy/features/buoyancy-configuration.html</loc>
-         <lastmod>2024-10-14</lastmod>
-    </url>
-    <url>
-         <loc>https://galidar.github.io/oceanology-docs/legacy/features/infinite-or-not-infinite.html</loc>
-         <lastmod>2024-10-14</lastmod>
-    </url>
-    <url>
-         <loc>https://galidar.github.io/oceanology-docs/legacy/features/quadtree.html</loc>
-         <lastmod>2024-10-14</lastmod>
-    </url>
-    <url>
-         <loc>https://galidar.github.io/oceanology-docs/legacy/features/rvt-heightmap-actor-manager.html</loc>
-         <lastmod>2024-10-14</lastmod>
-    </url>
-    <url>
-         <loc>https://galidar.github.io/oceanology-docs/legacy/features/swimming-configuration.html</loc>
-         <lastmod>2024-10-14</lastmod>
-    </url>
-    <url>
-         <loc>https://galidar.github.io/oceanology-docs/legacy/features/water-volume.html</loc>
-         <lastmod>2024-10-14</lastmod>
+         <lastmod>2024-10-21</lastmod>
     </url>
     <url>
          <loc>https://galidar.github.io/oceanology-docs/legacy/getting-started/installation.html</loc>
-         <lastmod>2024-10-14</lastmod>
+         <lastmod>2024-10-21</lastmod>
     </url>
     <url>
          <loc>https://galidar.github.io/oceanology-docs/legacy/getting-started/setup.html</loc>
-         <lastmod>2024-10-14</lastmod>
+         <lastmod>2024-10-21</lastmod>
     </url>
     <url>
-         <loc>https://galidar.github.io/oceanology-docs/legacy/how-to/easy-survival-rpg.html</loc>
-         <lastmod>2024-10-14</lastmod>
+         <loc>https://galidar.github.io/oceanology-docs/legacy/getting-started/features/audio-system.html</loc>
+         <lastmod>2024-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://galidar.github.io/oceanology-docs/legacy/getting-started/features/buoyancy-configuration.html</loc>
+         <lastmod>2024-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://galidar.github.io/oceanology-docs/legacy/getting-started/features/infinite-or-not-infinite.html</loc>
+         <lastmod>2024-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://galidar.github.io/oceanology-docs/legacy/getting-started/features/quadtree.html</loc>
+         <lastmod>2024-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://galidar.github.io/oceanology-docs/legacy/getting-started/features/rvt-heightmap-actor-manager.html</loc>
+         <lastmod>2024-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://galidar.github.io/oceanology-docs/legacy/getting-started/features/swimming-configuration.html</loc>
+         <lastmod>2024-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://galidar.github.io/oceanology-docs/legacy/getting-started/features/water-volume.html</loc>
+         <lastmod>2024-10-21</lastmod>
     </url>
     <url>
          <loc>https://galidar.github.io/oceanology-docs/legacy/intergrations/index.html</loc>
-         <lastmod>2024-10-14</lastmod>
+         <lastmod>2024-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://galidar.github.io/oceanology-docs/legacy/intergrations/WaterInteractionPlugin.html</loc>
+         <lastmod>2024-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://galidar.github.io/oceanology-docs/legacy/tutorials/boat-buoyancy.html</loc>
+         <lastmod>2024-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://galidar.github.io/oceanology-docs/legacy/tutorials/easy-survival-rpg.html</loc>
+         <lastmod>2024-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://galidar.github.io/oceanology-docs/legacy/tutorials/oc-uds.html</loc>
+         <lastmod>2024-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://galidar.github.io/oceanology-docs/legacy/tutorials/oc-worldscape.html</loc>
+         <lastmod>2024-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://galidar.github.io/oceanology-docs/legacy/tutorials/rvt-multiple-landscapes.html</loc>
+         <lastmod>2024-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://galidar.github.io/oceanology-docs/legacy/tutorials/rvt-setup.html</loc>
+         <lastmod>2024-10-21</lastmod>
     </url>
 </urlset>
