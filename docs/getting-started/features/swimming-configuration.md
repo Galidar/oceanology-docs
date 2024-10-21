@@ -21,7 +21,7 @@ Setting up the "swimming system" itself is actually easy, but setting up the Ani
 ## Quick Start
 Before proceeding any further, I recommend you to take a look at how BP_ThirdPersonCharacter is setup in the Oceanology demo example.
 
-![image](https://github.com/Galidar/Oceanology/assets/6297275/38d1208c-6325-414e-bf72-27d120df4cdb)
+![image](../../assets/images/features/swim-1.webp)
 
 1. Open your character class. (For example BP_ThirdPersonCharacter)
 2. Add OceanBuoyancyComponent to your character class and setup 2 pontoons such as "FullBody" and "Head".
@@ -40,8 +40,8 @@ Before proceeding any further, I recommend you to take a look at how BP_ThirdPer
    * The easiest approach here is to study each swimming state and each swimming animation of the Oceanology demo and then setting up it with your own character.
    * You can also just copy the anim graph from Oceanology and the state object and customize it to your needs. This approach only works however with mannequin-alike humanoid characters. Custom animations requires further fine-tuning with the states.
 
-![image](https://github.com/Galidar/Oceanology/assets/6297275/0c3ec44f-4877-43a2-ae12-177d6f232218)
-![image](https://github.com/Galidar/Oceanology/assets/6297275/9dd05a1f-b792-45f3-9d73-435a0720797a)
+![image](../../assets/images/features/swim-2.webp)
+![image](../../assets/images/features/swim-3.webp)
 
 
 ## Controls
@@ -50,7 +50,7 @@ Before proceeding any further, I recommend you to take a look at how BP_ThirdPer
 * OPTIONAL: You need to check "Swim Fast" section of the BP_ThirdPersonCharacter.
 * OPTIONAL: You need to check "Swim Up / Swim Down" section of the BP_ThirdPersonCharacter.
 
-![image](https://github.com/Galidar/Oceanology/assets/6297275/26efd0e1-8722-4f3a-97b1-d199d6557d20)
+![image](../../assets/images/features/swim-4.webp)
 
 
 ## Settings
@@ -66,13 +66,13 @@ The swimming system takes into account the character's collision capsule heights
 ## Events
 Please take a look at the "UserExampleGraph" of the BP_ThirdPersonCharacter of Oceanology demo.
 
-![image](https://github.com/Galidar/Oceanology/assets/6297275/fc8ba90f-cda1-4b17-a05d-07914684a449)
+![image](../../assets/images/features/swim-5.webp)
 
 
 This demonstrates the custom assignable events of the Oceanology swimming and visualizes them on an Example user HUD. Each swimming state and special swimming and water related event has a custom assignable event to have maximum customization for the user.
 
 These events can be used to customize swimming with additional business logic of the user. That can be playing a sound, printing debug messages, playing some random animation or setting a variable. Basically anything the user desires.
 
-![image](https://github.com/Galidar/Oceanology/assets/6297275/de2c7479-e9ea-4e67-b1b4-6c5186824343)
+![image](../../assets/images/features/swim-6.webp)
 
 

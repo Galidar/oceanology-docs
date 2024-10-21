@@ -5,7 +5,7 @@ A water volume in Oceanology is a Box to control physics and swimming. Multiple 
 It is very important that you must have "Generate Overlap Events" enabled on your objects you want to make buoyant/swimmable, and they must have at least a basic collision settings allowing overlap events. Please see the demo levels for example.
 
 ## The panel
-![image](https://github.com/Galidar/Oceanology/assets/6297275/0e936892-812d-4539-86e2-9601d053e1f9)
+![image](../../assets/images/features/water-1.webp)
 
 ## The Options
 * The "Oceanology Water" is a required parameter of this actor. Without this the volume will NOT work.

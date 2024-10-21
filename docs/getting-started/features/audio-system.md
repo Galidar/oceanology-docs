@@ -2,6 +2,8 @@
 
 Oceanology supports two different modes of Audio: Underwater & Waves. The behavior of underwater and non-underwater detection can be checked via "Debug Enabled" perfectly.
 
+![audio](../../assets/images/features/audio-1.webp)
+
 ## Underwater Audio
 The underwater audio plays when the actual camera is below the waterline of the current overlapping water body.
 

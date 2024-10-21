@@ -43,24 +43,36 @@ theme:
     - content.code.copy
     - content.code.select
     - content.code.annotate
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.sections
+    - navigation.indexes
+
 # Page navigation
 nav:
   - Home: index.md
   - Getting started:
     - Installation: ./getting-started/installation.md
     - Setup: ./getting-started/setup.md
-  - Features:
-    - Audio: ./features/audio-system.md
-    - Buoyancy: ./features/buoyancy-configuration.md
-    - Infinite: ./features/infinite-or-not-infinite.md
-    - QuadTree: ./features/quadtree.md
-    - RVT Manager: ./features/rvt-heightmap-actor-manager.md
-    - Swimming: ./features/swimming-configuration.md
-    - Water Volume: ./features/water-volume.md
-  - How-To:
-    - Oceanology + Easy Survival RPG: ./how-to/easy-survival-rpg.md
+    - Features:
+      - Audio: ./getting-started/features/audio-system.md
+      - Buoyancy: ./getting-started/features/buoyancy-configuration.md
+      - Infinite: ./getting-started/features/infinite-or-not-infinite.md
+      - QuadTree: ./getting-started/features/quadtree.md
+      - RVT Manager: ./getting-started/features/rvt-heightmap-actor-manager.md
+      - Swimming: ./getting-started/features/swimming-configuration.md
+      - Water Volume: ./getting-started/features/water-volume.md
+  - Tutorials:
+    - Oceanology + Easy Survival RPG: ./tutorials/easy-survival-rpg.md
+    - RVT Multiple landscapes: ./tutorials/rvt-multiple-landscapes.md
+    - Boat Buoyancy: ./tutorials/boat-buoyancy.md
+    - RVT Setup: ./tutorials/rvt-setup.md
+    - Ultra Dynamic Sky: ./tutorials/oc-uds.md
+    - WorldScape: ./tutorials/oc-worldscape.md
   - Intergrations:
-    - General: ./intergrations/index.md
+    - ./intergrations/index.md
+    - WaterInteractionPlugin: ./intergrations/WaterInteractionPlugin.md
 markdown_extensions:
   - attr_list
   - md_in_html

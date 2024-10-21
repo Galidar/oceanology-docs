@@ -6,7 +6,7 @@ The Oceanology procedural quadtree utilizes UHierarchicalInstancedStaticMeshComp
 For more information about QuadTree please read this: https://en.wikipedia.org/wiki/Quadtree
 
 ## The Actor Panel options of The QuadTree
-![image](https://github.com/Galidar/Oceanology/assets/6297275/bd71e2c9-0016-456e-baaa-7fb67bcd6864)
+![image](../../assets/images/features/quad-1.webp)
 
 
 ## Explanation of the options

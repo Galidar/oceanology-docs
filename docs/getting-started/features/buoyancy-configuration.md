@@ -14,9 +14,9 @@ Oceanology uses the **OceanBuoyancyComponent** to make an actor buoyant in your 
 * Be aware that the mass of the mesh component may alter the buoyancy behavior as well.
 
 ## Example for Quick Start
-![image](https://github.com/Galidar/Oceanology/assets/6297275/5e6a8ecc-9c14-4a29-aea2-5f25ae9c0b44)
-![image](https://github.com/Galidar/Oceanology/assets/6297275/f9fba0fb-3297-44fa-822d-733d1f4bd662)
-![image](https://github.com/Galidar/Oceanology/assets/6297275/5314f6ca-bbfe-44fb-8451-63449b7a1eb7)
+![image](../../assets/images/features/buoy-1.webp)
+![image](../../assets/images/features/buoy-2.webp)
+![image](../../assets/images/features/buoy-3.webp)
 
 ## Explanation
 * There are several options inside the **OceanBuoyancyComponent** to fine-tune the buoyancy of an actor, most of them have tooltip with explanation - and some don't but are self-explanatory. You may experiment with changing them, but radical variables may alter the behavior in an unwanted manner. So changes with caution!
