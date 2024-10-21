@@ -25,10 +25,9 @@ To get started with Oceanology, follow these steps:
 
 This documentation includes the following sections:
 
-- **Installation Guide:** Step-by-step instructions for installing and setting up Oceanology.
-- **Feature Overview:** Detailed explanations of each feature and how to use them.
+- **Getting Started:** Step-by-step instructions for installing and setting up Oceanology.
 - **Tutorials:** Hands-on tutorials to help you create ocean scenes.
-- **API Reference:** Comprehensive API documentation for developers.
+- **Intergrations:** Comprehensive list of plugins that intergrate with Oceanology.
 
 ## Community and Support
 
