@@ -1,4 +1,4 @@
-## WaterInteractionPlugin
+# WaterInteractionPlugin
 
 The **WaterInteractionPlugin** enables seamless integration between **Oceanology** and **Fluid Ninja Live**, allowing for advanced water interaction effects. With this plugin, you can combine the fluid simulation and water interaction features of Fluid Ninja with the ocean simulation capabilities of Oceanology to create realistic water dynamics and fluid behaviors in your projects.
 
