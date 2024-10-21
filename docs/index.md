@@ -33,7 +33,7 @@ This documentation includes the following sections:
 
 Join our discord community to connect with other users, developers, get access to the latest updates, tutorials, and news. If you have questions or need support, feel free to reach out via discord:
 
-- **[Discord Channel](https://discord.gg/QYkuHbrgHS)**
+- **[Discord Channel](https://discord.gg/MfCVjgf8bw)**
 
 ## Other Social
 
