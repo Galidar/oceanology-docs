@@ -1,6 +1,6 @@
 # Setup Guide
 
-Provides a step-by-step guide to setup Oceanology requirments. If you need help adding Oceanology to your scene after all requirements have been configured video here [TODO VIDEO] 
+Provides a step-by-step guide to setup Oceanology requirments. If you need help adding Oceanology to your scene here is a tutorial video: [Getting Started Video](https://www.youtube.com/watch?v=lEAlVro1kxA)
 
 !!! note
 
