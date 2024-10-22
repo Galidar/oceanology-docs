@@ -2,13 +2,13 @@
   {
     "version": "legacy-",
     "title": "legacy-",
-    "aliases": [
-      "latest"
-    ]
+    "aliases": []
   },
   {
     "version": "legacy",
     "title": "legacy",
-    "aliases": []
+    "aliases": [
+      "latest"
+    ]
   }
 ]
